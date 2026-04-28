@@ -1,1 +1,64 @@
-# Bleu-Portfolio
+# 👋 Hi, I'm Bleu Inigo Panganiban
+
+🎓 IT Student | 💻 Aspiring Developer | 🚀 Future Software Engineer
+
+---
+
+## 📌 About Me
+
+I am currently an Information Technology student passionate about building projects and improving my programming skills. I enjoy learning new technologies and applying them to real-world problems.
+
+---
+
+## 🛠️ Skills
+
+* 💻 Programming: Java, Python
+* 🌐 Web Development: HTML, CSS
+* 🗄️ Database: MySQL
+* ⚙️ Tools: Git, GitHub, VS Code
+
+---
+
+## 📂 Projects
+
+### 🔹 1. Simple Calculator
+
+* 📌 Description: A basic calculator that performs arithmetic operations
+* 🛠️ Tech Used: Java
+* 🔗 GitHub Link: [Add your link here]
+
+---
+
+### 🔹 2. Student Record System
+
+* 📌 Description: A system for managing student information
+* 🛠️ Tech Used: Java / MySQL
+* 🔗 GitHub Link: [Add your link here]
+
+---
+
+### 🔹 3. Personal Portfolio Website
+
+* 📌 Description: A website showcasing my profile and projects
+* 🛠️ Tech Used: HTML, CSS
+* 🔗 GitHub Link: [Add your link here]
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: bleupanganiban08@gmail.com
+* 📍 Location: Philippines
+* 💼 GitHub: https://github.com/bleupanganiban
+
+---
+
+## ✨ Quote
+
+> "Keep learning, keep building, keep growing."
