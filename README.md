@@ -21,19 +21,13 @@ I am currently an Information Technology student passionate about building proje
 
 ## 📂 Projects
 
-### 🔹 1. Simple Calculator
-
-* 📌 Description: A basic calculator that performs arithmetic operations
-* 🛠️ Tech Used: Java
-* 🔗 GitHub Link: [Add your link here]
-
 ---
 
 ### 🔹 2. Student Record System
 
 * 📌 Description: A system for managing student information
 * 🛠️ Tech Used: Java / MySQL
-* 🔗 GitHub Link: [Add your link here]
+* 🔗 GitHub Link: [[Add your link here]](https://github.com/bleupanganiban08-oss/Bleu-Portfolio/tree/c913a8438be5c24b1f004835f7cd4ee5c8e1841a/finals_act)
 
 ---
 
@@ -41,7 +35,7 @@ I am currently an Information Technology student passionate about building proje
 
 * 📌 Description: A website showcasing my profile and projects
 * 🛠️ Tech Used: HTML, CSS
-* 🔗 GitHub Link: [Add your link here]
+* 🔗 GitHub Link: [[Add your link here]](https://github.com/bleupanganiban08-oss/Bleu-Portfolio/tree/c913a8438be5c24b1f004835f7cd4ee5c8e1841a/finals_act)
 
 ---
 
